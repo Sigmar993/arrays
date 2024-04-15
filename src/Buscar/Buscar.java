@@ -1,5 +1,5 @@
 package Buscar;
-
+//Esto es un comentario para GitHub
 public class Buscar {
 
 	public static void main(String[] args) {
